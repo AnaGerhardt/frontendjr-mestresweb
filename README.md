@@ -1,6 +1,6 @@
-# Desafio Front-end Devoper Jr (Mestres da Web)
+# Desafio Dev Front-end Jr (Mestres da Web)
 
-Projeto criado para a vaga de front-end jr da empresa Mestres da Web.
+Projeto criado para a vaga de desenvolvedor(a) front-end jr da empresa Mestres da Web.
 
 ## Scripts
 

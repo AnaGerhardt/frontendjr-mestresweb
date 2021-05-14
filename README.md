@@ -8,7 +8,7 @@ No diretório do projeto, executar os comandos:
 
 ### `npm install`
 
-Instala os pacotes necessários para rodar o app.\
+Instala os pacotes necessários para rodar o app.
 
 ### `npm start`
 

@@ -4,7 +4,11 @@ Projeto criado para a vaga de desenvolvedor(a) front-end jr da empresa Mestres d
 
 ## Scripts
 
-No diretório do projeto, executar o comando:
+No diretório do projeto, executar os comandos:
+
+### `npm install`
+
+Instala os pacotes necessários para rodar o app.\
 
 ### `npm start`
 
